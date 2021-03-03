@@ -24,7 +24,7 @@ Basic knowledge of:
 - Other: *Regular expressions, Bash, AWK, HTML, CSS*
 
 ### *Code sample*
-Program for USB/MIDI controller based on Arduino
+Program for USB/MIDI controller based on Arduino:
 
 	const int pot_out[] = { 1, 2, 3, 4, 5};
 	const int butt_out[] = { 27, 29, 31, 33 };
